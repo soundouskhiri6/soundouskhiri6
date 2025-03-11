@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soundouskhiri6
+- 👋 Hi, I’m KHIRI Soundous 
 - i'm a Computer Science student passionate about exploring the intersection of web development, 3D modeling, and data analysis.
 - I believe in continuous learning and pushing the boundaries of what's possible with technology.
 🔭 Current Focus
