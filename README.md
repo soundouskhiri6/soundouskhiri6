@@ -2,7 +2,7 @@
 - i'm a Computer Science student passionate about exploring the intersection of web development, 3D modeling, and data analysis.
 - I believe in continuous learning and pushing the boundaries of what's possible with technology.
 🔭 Current Focus
-Developing my web development skills (HTML, CSS, JavaScript)
+Developing my web development skills 
 Learning 3D modeling and animation with Blender
 Exploring data analysis techniques and tools
 Building projects that combine these interests
