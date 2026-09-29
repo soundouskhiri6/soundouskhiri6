@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Machine Learning , deep Learning , ai automation**
 
-- 💬 Ask me about **Desgin**
+- 💬 Ask me about **Desgin , UML modeling**
 
 - 📫 How to reach me **soundouskhiri@gmail.com**
 
-- 📄I have a solid foundation in software project management, with hands-on knowledge of software development methodologies such as UML modeling and Agile practices. I'm comfortable designing user interfaces that balance usability and clarity, and I understand how to structure a system architecture that is scalable and maintainable 
+- 📄 Know about my experiences [I have a solid foundation in software project management, with hands-on knowledge of software development methodologies such as UML modeling and Agile practices. I'm comfortable designing user interfaces that balance usability and clarity, and I understand how to structure a system architecture that is scalable and maintainable ,Alongside this, I'm actively deepening my expertise in artificial intelligence, currently studying machine learning, deep learning, and AI-driven automation, with the goal of integrating intelligent solutions into modern software products.](I have a solid foundation in software project management, with hands-on knowledge of software development methodologies such as UML modeling and Agile practices. I'm comfortable designing user interfaces that balance usability and clarity, and I understand how to structure a system architecture that is scalable and maintainable ,Alongside this, I'm actively deepening my expertise in artificial intelligence, currently studying machine learning, deep learning, and AI-driven automation, with the goal of integrating intelligent solutions into modern software products.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
